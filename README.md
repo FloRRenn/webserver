@@ -31,7 +31,7 @@ pymongo==3.12.0
       - `/button?top=....&bottom=....`
       
    + **Upload ảnh lên database (method POST)**
-      - `/upload`, Xem ví dụ trong `/test/test_request.py`
+      - `/upload`, Xem ví dụ trong `test/test_request.py`
    
    + **Lấy ảnh từ database và thể hiện trên trình duyệt (method GET)**
       - `/getfile?username=....&password=.....&file=.....`
