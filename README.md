@@ -24,7 +24,7 @@ pymongo==3.12.0
 # Cách dùng
 1. Chạy file server.py để khởi tạo server.
 2. Url của server sẽ là `http://__IP__:__PORT__/`
-3. Sử dụng với cách đường dẫn như sau
+3. Sử dụng url với các đường dẫn như sau
    + **Tạo ảnh meme (method POST/GET)**
       - `/10guy?top=....&bottom=....`
       - `/alien?top=....&bottom=....`
