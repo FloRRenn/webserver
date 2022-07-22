@@ -2,7 +2,7 @@
 Demo cách hoạt động của 1 web server với các method POST, GET
 
 # Cài đặt
-```css
+```python
 Cài đặt môi trường python (https://www.python.org/)
 ```
 **Cài đặt thư viện**
